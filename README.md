@@ -4,6 +4,10 @@ An interactive Excel dashboard that analyses supermarket sales data to compare p
 
 <img width="1095" height="447" alt="009k" src="https://github.com/user-attachments/assets/fed1195a-a1fa-41e3-b222-4985bc838e41" />
 
+<img width="583" height="282" alt="7879000" src="https://github.com/user-attachments/assets/05d2fcb2-0739-4728-94fc-3cc921bd29a3" />
+
+<img width="777" height="395" alt="6000" src="https://github.com/user-attachments/assets/91f90804-49d1-407c-9661-a6746db32b45" />
+
 
 ## Project Goal
 Management had only a raw sales dataset, which made it hard to identify top-performing products, compare outlets and see sales patterns. This project turns that data into a clear dashboard.
