@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard that analyses supermarket sales data to compare product categories and outlets, explore sales relationships and understand statistical patterns.
 
-<img width="1102" height="446" alt="image" src="https://github.com/user-attachments/assets/df9e3dfc-02f6-4689-8377-3d8934f8d599" />
+<img width="1095" height="447" alt="009k" src="https://github.com/user-attachments/assets/fed1195a-a1fa-41e3-b222-4985bc838e41" />
 
 
 ## Project Goal
